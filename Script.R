@@ -28,7 +28,7 @@ table(x, y)
 # Executa o teste
 chisq.test(table(x, y))
 
-
+#Sim, temos resultados diferentes se não coniderarmos imóveis do tipo apartamento. 
 
 
 
